@@ -1,0 +1,19 @@
+{
+  "screenshots": [
+      {
+        "img": "https://wallpaperscraft.com/image/planet_clouds_light_star_94996_1920x1080.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "liked": "0"
+      },
+      {
+        "img": "https://lh6.ggpht.com/ItcoMm0qVG2JsPnPJVN4Ece6vlXhnYt9E069Iw2lJpKj2_lKml-iV41ur9iaa5XQxg=h900",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "liked": "0"
+      },
+      {
+        "img": "https://lh3.ggpht.com/syAkjv_Cod5wwA1UHxLDuV1DBolVV8zJ_DJX2ylKQb5b5eTre12A9xIn_aEo7Sh1jQ=h900",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "liked": "0"
+      }
+  ]
+}
